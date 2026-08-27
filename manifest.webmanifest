@@ -1,0 +1,17 @@
+{
+  "name": "Zella Journal",
+  "short_name": "Zella",
+  "description": "Diario de trading de Rayder",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
